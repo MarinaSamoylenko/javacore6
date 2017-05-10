@@ -7,8 +7,10 @@ import com.kitcenter.app.classwork.lesson4.lesson6.CircleArea;
  */
 public class CircleAreaRunner {
     public static void main(String[] args) {
-        CircleArea.calculate();
-    CircleArea.calculateBigger();
-    }
+//        CircleArea.calculate();
+//    CircleArea.calculateBigger();
+//        CircleArea.radiusVSArea(); }
+        CircleArea.areaVSRadius();
 
+    }
 }

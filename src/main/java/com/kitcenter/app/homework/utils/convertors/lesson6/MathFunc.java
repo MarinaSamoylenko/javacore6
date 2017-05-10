@@ -12,10 +12,9 @@ public class MathFunc {
         return (a / c) + b + a;
     }
 
-    public int minArg(int w, int b) {
-        return min(w, b);
-    }
-
+//    public int minArg(int w, int b) {
+//        return w - b;
+//    }
 
     public int multiply(int a, int b) {
         return a * b;

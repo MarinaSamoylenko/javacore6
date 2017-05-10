@@ -1,4 +1,4 @@
-package com.kitcenter.app.classwork.lesson5;
+package com.kitcenter.app.classwork.lesson6;
 
 import com.kitcenter.app.classwork.lesson4.lesson5.Calculator;
 import org.junit.*;
@@ -6,7 +6,7 @@ import org.junit.*;
 /**
  * Created by Marina on 5/3/17.
  */
-public class CalculatorTest {
+public class  CalculatorTest {
     int number1,number2;
      @BeforeClass
      public static void setBeforeclassSetUp(){
@@ -47,7 +47,7 @@ public class CalculatorTest {
         System.out.println("Postcondition for every test");
     }
     @AfterClass
-    public void tearDownForClass() {
+    public static void tearDownForClass() {
         System.out.println("Postcondition for class test");
     }
 }
