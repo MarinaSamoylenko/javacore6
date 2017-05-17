@@ -1,4 +1,4 @@
-package com.kitcenter.app.homework.utils.convertors.lesson6;
+package com.kitcenter.app.homework.utils.convertors.lesson3;
 
 /**
  * Created by Marina on 5/10/17.

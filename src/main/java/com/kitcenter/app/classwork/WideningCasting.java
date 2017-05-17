@@ -1,4 +1,4 @@
-package com.kitcenter.app.classwork.lesson4;
+package com.kitcenter.app.classwork;
 
 /**
  * Created by Marina on 5/3/17.

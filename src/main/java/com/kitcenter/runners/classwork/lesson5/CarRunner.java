@@ -1,5 +1,5 @@
 package com.kitcenter.runners.classwork.lesson5;
-import com.kitcenter.app.classwork.lesson4.lesson5.Car;
+import com.kitcenter.app.classwork.lesson5.Car;
 
 /**
  * Created by Marina on 5/6/17.

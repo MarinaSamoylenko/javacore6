@@ -1,6 +1,6 @@
 package com.kitcenter.runners.classwork.lesson6;
 
-import com.kitcenter.app.classwork.lesson4.lesson6.CircleArea;
+import com.kitcenter.app.classwork.lesson6.CircleArea;
 
 /**
  * Created by Marina on 5/6/17.

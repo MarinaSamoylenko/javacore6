@@ -1,6 +1,6 @@
 package com.kitcenter.app.classwork.lesson6;
 
-import com.kitcenter.app.classwork.lesson4.lesson5.Calculator;
+import com.kitcenter.app.classwork.lesson5.Calculator;
 import org.junit.*;
 
 /**

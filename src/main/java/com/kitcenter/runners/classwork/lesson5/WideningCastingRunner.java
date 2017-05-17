@@ -1,7 +1,7 @@
-package com.kitcenter.runners.classwork.lesson4;
+package com.kitcenter.runners.classwork.lesson5;
 
-import com.kitcenter.app.classwork.lesson4.NarrowingCasting;
-import com.kitcenter.app.classwork.lesson4.WideningCasting;
+import com.kitcenter.app.classwork.NarrowingCasting;
+import com.kitcenter.app.classwork.WideningCasting;
 
 /**
  * Created by Marina on 5/3/17.

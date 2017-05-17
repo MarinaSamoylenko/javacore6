@@ -1,10 +1,8 @@
 package com.kitcenter.app.classwork.lesson6;
 
-import com.kitcenter.app.homework.utils.convertors.lesson6.MathFunc;
+import com.kitcenter.app.homework.utils.convertors.lesson3.MathFunc;
 import org.junit.*;
-import org.junit.Assert.*;
 
-import org.junit.*;
 import org.junit.runners.MethodSorters;
 
 

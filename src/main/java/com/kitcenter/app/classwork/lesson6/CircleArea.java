@@ -1,4 +1,4 @@
-package com.kitcenter.app.classwork.lesson4.lesson6;
+package com.kitcenter.app.classwork.lesson6;
 
 
 import java.util.Scanner;
