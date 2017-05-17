@@ -30,7 +30,7 @@ public class Lesson7Runner {
                 System.out.println("Incorrect input.");
         }
         Scanner scanner1 = new Scanner(System.in);
-        System.out.println("Continue? Enter \"y\" for yes, \"n\" for not");
+        System.out.println("Continue? Enter \"y\" for yes, \"n\" for not.");
        String letter;
         do {
           letter = scanner1.nextLine();
